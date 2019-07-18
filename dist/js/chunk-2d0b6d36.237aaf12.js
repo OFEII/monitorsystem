@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["chunk-2d0b6d36"],{"1f8c":function(p,c,n){p.exports=n.p+"img/watercold2.e3750bc6.jpg"}}]);
